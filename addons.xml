@@ -52,4 +52,19 @@
 		<news>Updated the addon to use new addon.xml metadata</news>
 	</extension>
 </addon>
+  <addon id="repository.steelchannels" name="Repositorio SteelChannels Para KODI" version="1.0.1" provider-name="SteelChannels">
+	<extension point="xbmc.addon.repository" name="Repositorio SteelChannels Para KODI">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/strikersfran/repository.steelchannels/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/strikersfran/repository.steelchannels/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/strikersfran/repository.steelchannels/master</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repositorio SteelChannels Para KODI</summary>
+   		<description lang="en">Instalar los Addons de SteelChannels.</description>
+		<disclaimer/>
+		<platform>all</platform>
+	</extension>
+</addon>
 </addons>
