@@ -88,7 +88,9 @@
         "name": "A&E",
         "logo": "https://steelchannels.tk/assets/img/channels/a&e.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://vp01-aeiptv.delivery.fuugo.com/ngrp:vp01-A_E_HD_LA_IPTV-2e42abb1_all/playlist.m3u8"
+        ]
     },
     {
         "id": "2001",
@@ -102,14 +104,18 @@
         "name": "AXN",
         "logo": "https://steelchannels.tk/assets/img/channels/axn.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "https://vp01-axniptv.delivery.fuugo.com/ngrp:vp01-AXN_HD_LA_IPTV-b86077c0_all/playlist.m3u8"
+        ]
     },
     {
         "id": "2004",
         "name": "CINE LATINO",
         "logo": "https://steelchannels.tk/assets/img/channels/cinelatino.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "https://vp01-cinelatinoiptv.delivery.fuugo.com/ngrp:vp01-Cine_Latino_IPTV-da8eb806_all/playlist.m3u8"
+        ]
     },
     {
         "id": "2005",
@@ -242,7 +248,9 @@
         "name": "SONY",
         "logo": "https://steelchannels.tk/assets/img/channels/sony.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "https://vp01-setiptv.delivery.fuugo.com/ngrp:vp01-SET_HD_LA_IPTV-6cb2b729_all/playlist.m3u8"
+        ]
     },
     {
         "id": "2042",
@@ -256,14 +264,18 @@
         "name": "STUDIO UNIVERSAL",
         "logo": "https://steelchannels.tk/assets/img/channels/studiouniversal.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "https://vp01-studiouniversaliptv.delivery.fuugo.com/ngrp:vp01-Studio_Universal_IPTV-961417a8_all/playlist.m3u8"
+        ]
     },
     {
         "id": "2046",
         "name": "SYFY",
         "logo": "https://steelchannels.tk/assets/img/channels/syfy.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "https://vp01-syfyiptv.delivery.fuugo.com/ngrp:vp01-SyFy_LA_IPTV-ac275d46_all/playlist.m3u8"
+        ]
     },
     {
         "id": "2047",
@@ -298,14 +310,18 @@
         "name": "UNIVERSAL CHANNEL",
         "logo": "https://steelchannels.tk/assets/img/channels/universalchannel.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "https://vp01-universaliptv.delivery.fuugo.com/ngrp:vp01-Universal_Channel_IPTV-ac6f9ada_all/playlist.m3u8"
+        ]
     },
     {
         "id": "2052",
         "name": "WARNER CHANNEL",
         "logo": "https://steelchannels.tk/assets/img/channels/warnerchannel.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "https://vp01-wbtviptv.delivery.fuugo.com/ngrp:vp01-WBTV_HD_LA_IPTV-5257d24d_all/playlist.m3u8"
+        ]
     },
     {
         "id": "2055",
@@ -494,21 +510,27 @@
         "name": "HISTORY",
         "logo": "https://steelchannels.tk/assets/img/channels/history.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "https://vp01-thciptv.delivery.fuugo.com/ngrp:vp01-THC_LA_IPTV-e868351d_all/playlist.m3u8"
+        ]
     },
     {
         "id": "3034",
         "name": "HISTORY 2",
         "logo": "https://steelchannels.tk/assets/img/channels/history2.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "https://vp01-h2iptv.delivery.fuugo.com/ngrp:vp01-H2_LA_IPTV-f3a00009_all/playlist.m3u8"
+        ]
     },
     {
         "id": "3035",
         "name": "LIFETIME",
         "logo": "https://steelchannels.tk/assets/img/channels/lifetime.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "https://vp01-lifetimeiptv.delivery.fuugo.com/ngrp:vp01-Lifetime_LA_IPTV-0f5f4705_all/playlist.m3u8"
+        ]
     },
     {
         "id": "4005",
