@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <addons>
-  <addon id="plugin.video.steelchannels.studio" name="Steel [COLOR red]Channels[/COLOR] Studio" provider-name="SteelChannels" version="0.0.2">
+  <addon id="plugin.video.steelchannels.studio" name="Steel [COLOR red]Channels[/COLOR] Studio" provider-name="SteelChannels" version="0.2.0">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="plugin.video.youtube"/>
@@ -8,6 +8,7 @@
         <import addon="script.module.beautifulsoup4" version="4.9.3"/>
         <import addon="script.module.html5lib" version="0.999.0"/>
         <import addon="script.module.inputstreamhelper" version="0.4.2"/>
+        <import addon="plugin.video.themoviedb.helper" version="5.1.11"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="player.py">
       <provides>video</provides>
