@@ -4,7 +4,10 @@
         "name": "BABY FIRST",
         "logo": "https://steelchannels.tk/assets/img/channels/babyfirst.png",        
         "category": "INFANTILES",
-        "source": []
+        "source": [
+            "http://190.83.119.67:8000/play/a029/index.m3u8",
+            "http://190.83.116.230:9010/play/a09u/index.m3u8"
+        ]
     },
     {
         "id": "1001",
@@ -25,7 +28,9 @@
         "name": "CARTOON NETWORK",
         "logo": "https://steelchannels.tk/assets/img/channels/cartoonnetwork.png",
         "category": "INFANTILES",
-        "source": []
+        "source": [
+            "http://186.96.111.23:8000/play/a009"
+        ]
     },
     {
         "id": "1005",
@@ -572,7 +577,9 @@
         "name": "CO: CARACOL",
         "logo": "http://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-100x70.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "http://186.96.111.23:8000/play/a01o"
+        ]
     },
     {
         "id": "5192",
