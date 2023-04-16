@@ -1,4 +1,4 @@
-<addon id="plugin.video.steelchannels.studio" name="Steel [COLOR red]Channels[/COLOR] Studio" provider-name="SteelChannels" version="0.2.4">
+<addon id="plugin.video.steelchannels.studio" name="Steel [COLOR red]Channels[/COLOR] Studio" provider-name="SteelChannels" version="0.2.5">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="plugin.video.youtube"/>
