@@ -14,7 +14,9 @@
         "name": "BABY TV",
         "logo": "https://steelchannels.tk/assets/img/channels/babytv.png",
         "category": "INFANTILES",
-        "source": []
+        "source": [
+            "plugin://plugin.video.youtube/play/?video_id=2uKl8LG-5gE"
+        ]
     },
     {
         "id": "1002",
@@ -403,7 +405,9 @@
         "name": "TELEMUNDO INTERNACIONAL",
         "logo": "http://www.planetfools.com/telemundo.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "https://vp01-telemundosdiptv.delivery.fuugo.com/ngrp:vp01-Telemundo_SD_IPTV-3b345a09_all/playlist.m3u8"
+        ]
     },
     {
         "id": "3012",
@@ -621,14 +625,18 @@
         "name": "ES: PEQUE RADIO",
         "logo": "http://directostv.teleame.com/wp-content/uploads/2018/07/pequeradio-tv-100x70.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
+        ]
     },
     {
         "id": "5288",
         "name": "ES: RTVE",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWZEDOjQ-nF4zisL_wIh0f5yOytKdGgASHEWr_-AyuyhN3KNo1Eal8HqKA7hW3XmjA20&usqp=CAU",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://www.rtve.es/ztnr/5562351.m3u8"
+        ]
     },
     {
         "id": "5320",
@@ -677,7 +685,9 @@
         "name": "VE: GLOBOVISION",
         "logo": "https://rndserv.xyz/img/globovision.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "plugin://plugin.video.youtube/play/?video_id=61fS_I0VVt0"
+        ]
     },
     {
         "id": "5495",
@@ -691,7 +701,11 @@
         "name": "VE: TELESUR",
         "logo": "https://rndserv.xyz/img/telesur.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8",
+            "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+            "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+        ]
     },
     {
         "id": "5497",
@@ -713,6 +727,24 @@
         "logo": "https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-10.png",
         "category": "PAISES",
         "source": []
+    },
+    {
+        "id": "5501",
+        "name": "VE: VPI-TV",
+        "logo": "https://yt3.googleusercontent.com/ytc/AL5GRJX3rQrdRxY609Zj-F1KU1A355vn79eJ4BkGdSJT5g=s900-c-k-c0x00ffffff-no-rj",
+        "category": "PAISES",
+        "source": [
+            "plugin://plugin.video.youtube/play/?video_id=Cc5rjCppBlg"
+        ]
+    },
+    {
+        "id": "5502",
+        "name": "VE: CNN",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",
+        "category": "PAISES",
+        "source": [
+            "plugin://plugin.video.youtube/play/?video_id=Ea4PFyyqk_g"
+        ]
     },
     {
         "id": "5518",
@@ -881,7 +913,9 @@
         "name": "ES: A3 CINE",
         "logo": "https://www.simple.com.ve/wp-content/uploads/2021/03/a3cine.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8"
+        ]
     },
     {
         "id": "1023",
@@ -909,7 +943,9 @@
         "name": "RT TV",
         "logo": "https://steelchannels.tk/assets/img/channels/noimage.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
+        ]
     },
     {
         "id": "5531",
@@ -965,7 +1001,9 @@
         "name": "ES: EURONEWS",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8"
+        ]
     },
     {
         "id": "5538",
@@ -979,6 +1017,8 @@
         "name": "VE: CANAL I",
         "logo": "http://canal-i.com/wordpress/wp-content/uploads/2019/02/logo_v2-2.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://vcp.myplaytv.com/canali/canali/playlist.m3u8"
+        ]
     }
 ]
