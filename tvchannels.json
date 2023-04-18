@@ -15,7 +15,7 @@
         "logo": "https://steelchannels.tk/assets/img/channels/babytv.png",
         "category": "INFANTILES",
         "source": [
-            "plugin://plugin.video.youtube/play/?video_id=2uKl8LG-5gE"
+            "https://www.youtube.com/watch?v=2uKl8LG-5gE"
         ]
     },
     {
@@ -567,7 +567,9 @@
         "name": "AR: TELEFE",
         "logo": "https://pbs.twimg.com/profile_images/1542138819767672832/1jO2sZDr_400x400.jpg",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://www.youtube.com/watch?v=GDvXTvCuMbE"
+        ]
     },
     {
         "id": "5185",
@@ -582,7 +584,8 @@
         "logo": "http://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-100x70.png",
         "category": "PAISES",
         "source": [
-            "http://186.96.111.23:8000/play/a01o"
+            "http://186.96.111.23:8000/play/a01o",
+            "https://www.youtube.com/watch?v=iPnBv3mbYWk"
         ]
     },
     {
@@ -686,7 +689,7 @@
         "logo": "https://rndserv.xyz/img/globovision.png",
         "category": "PAISES",
         "source": [
-            "plugin://plugin.video.youtube/play/?video_id=61fS_I0VVt0"
+            "https://www.youtube.com/watch?v=61fS_I0VVt0"
         ]
     },
     {
@@ -734,7 +737,7 @@
         "logo": "https://yt3.googleusercontent.com/ytc/AL5GRJX3rQrdRxY609Zj-F1KU1A355vn79eJ4BkGdSJT5g=s900-c-k-c0x00ffffff-no-rj",
         "category": "PAISES",
         "source": [
-            "plugin://plugin.video.youtube/play/?video_id=Cc5rjCppBlg"
+            "https://www.youtube.com/watch?v=Cc5rjCppBlg"
         ]
     },
     {
@@ -743,7 +746,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",
         "category": "PAISES",
         "source": [
-            "plugin://plugin.video.youtube/play/?video_id=Ea4PFyyqk_g"
+            "https://www.youtube.com/watch?v=Ea4PFyyqk_g"
         ]
     },
     {
@@ -1002,7 +1005,8 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",
         "category": "PAISES",
         "source": [
-            "https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8"
+            "https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8",
+            "https://www.youtube.com/watch?v=O9mOtdZ-nSk"
         ]
     },
     {
@@ -1010,7 +1014,9 @@
         "name": "ES: FRANCE 24",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://www.youtube.com/watch?v=XDJPzMznAjU"
+        ]
     },
     {
         "id": "5539",
