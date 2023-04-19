@@ -377,7 +377,9 @@
         "name": "COMEDY CENTRAL",
         "logo": "https://steelchannels.tk/assets/img/channels/comedycentral.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://186.96.111.23:8000/play/a01p"
+        ]
     },
     {
         "id": "3006",
@@ -576,7 +578,9 @@
         "name": "CO: CANAL UNO",
         "logo": "http://directostv.teleame.com/wp-content/uploads/2018/02/Canal-1-Colombia-en-vivo-Online-directo-100x70.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://ssh101.bozztv.com/ssh101/undiatves/playlist.m3u8"
+        ]
     },
     {
         "id": "5186",
@@ -593,7 +597,9 @@
         "name": "CO: RCN",
         "logo": "http://www.monitoreodemedios.co/wp-content/uploads/2016/03/RCN-TELEVISION-C.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "http://186.96.111.23:8000/play/a01j"
+        ]
     },
     {
         "id": "5246",
@@ -715,7 +721,9 @@
         "name": "VE: TELEVEN",
         "logo": "https://rndserv.xyz/img/televen.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://vp01-tlv42-thx1138.delivery.fuugo.com/ngrp:vp01-Televen-FreeDRM-e69788fd_all/manifest.mpd|user-agent=Mozilla&referer=https://envivo.televen.com/"
+        ]
     },
     {
         "id": "5499",
@@ -754,14 +762,18 @@
         "name": "EC: ECUAVISA",
         "logo": "https://steelchannels.tk/assets/img/channels/noimage.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8"
+        ]
     },
     {
         "id": "5523",
         "name": "EC: TC TELEVISION",
         "logo": "https://steelchannels.tk/assets/img/channels/noimage.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://www.dailymotion.com/embed/video/x7wijay"
+        ]
     },
     {
         "id": "6023",
@@ -932,7 +944,9 @@
         "name": "VE: TVES",
         "logo": "https://rndserv.xyz/img/tves.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8"
+        ]
     },
     {
         "id": "3061",
@@ -962,21 +976,27 @@
         "name": "VE: IVC",
         "logo": "https://www.simple.com.ve/wp-content/uploads/2021/02/ivc-logo.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "http://186.96.111.23:8000/play/a00v"
+        ]
     },
     {
         "id": "5533",
         "name": "VE: VTV",
         "logo": "https://rndserv.xyz/img/vtv.png",
         "category": "PAISES",
-        "source": []
+        "source": [
+            "https://www.dailymotion.com/embed/video/x828i6j"
+        ]
     },
     {
         "id": "9009",
         "name": "LOS SIMPSONS",
         "logo": "https://rndserv.xyz/images/simpsons.png",
         "category": "CANALES 24/7",
-        "source": []
+        "source": [
+            "https://www.twitch.tv/fileld026"
+        ]
     },
     {
         "id": "9010",
@@ -998,6 +1018,17 @@
         "logo": "https://steelchannels.tk/assets/img/channels/noimage.png",
         "category": "CANALES 24/7",
         "source": []
+    },
+    {
+        "id": "9013",
+        "name": "EL CHAVO",
+        "logo": "https://applications-media.feverup.com/image/upload/f_auto,w_320,h_320/fever2/plan/photo/9780beca-543e-11ed-ac20-4a2f4e17ecc2.jpg",
+        "category": "CANALES 24/7",
+        "source": [
+            "https://www.twitch.tv/retrotvlatam",
+            "https://www.twitch.tv/castrill0n",
+            "https://www.twitch.tv/nostalgiaa_tv"
+        ]
     },
     {
         "id": "5537",
