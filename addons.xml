@@ -1,5 +1,28 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <addons>
+  <addon id="service.steelchannels" name="Steel [COLOR red]Channels[/COLOR] Server" provider-name="SteelChannels" version="0.0.1">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.beautifulsoup4" version="4.9.3"/>
+        <import addon="script.module.html5lib" version="0.999.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="default.py"/>
+    <extension point="xbmc.service" library="service.py"/>
+    <extension point="xbmc.addon.metadata">        
+        <summary lang="en_GB">SteelChannels Service</summary>
+        <summary lang="es_ES">SteelChannels StServiceudio</summary>
+        <description lang="en_GB">.</description>
+        <description lang="es_ES">Servicio de SteelChannels para mantener actualizado los contenidos.</description>
+        <disclaimer lang="es_ES">SteelChannels</disclaimer>
+        <platform>all</platform>
+		<source>https://github.com/strikersfran/service.steelchannels</source>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
   <addon id="plugin.video.steelchannels.studio" name="Steel [COLOR red]Channels[/COLOR] Studio" provider-name="SteelChannels" version="0.2.9">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>

@@ -308,15 +308,15 @@ class Compressor:
             the_path = os.path.join(self.addon_path, the_file)
 
             # delete directories
-            if not os.path.isfile(the_path):
-                shutil.rmtree(the_path)
+            # if not os.path.isfile(the_path):
+            #     shutil.rmtree(the_path)
 
             # list of files we specifically need to retain for the addon release folder (folder containing the zip
-            elif not (('addon.xml' in the_file) or ('hangelog' in the_file) or ('fanart' in the_file) or ('icon' in the_file) or (zipname in the_file)):
-                os.remove(the_path)
+            # elif not (('addon.xml' in the_file) or ('hangelog' in the_file) or ('fanart' in the_file) or ('icon' in the_file) or (zipname in the_file)):
+            #     os.remove(the_path)
 
             # tag the changelog with '-x.x.x' release number
-            elif 'hangelog' in the_file:  # hangelog so that it is detected irrespective of whether C is capitalised
+            if 'hangelog' in the_file:  # hangelog so that it is detected irrespective of whether C is capitalised
                 changelog = 'changelog-' + self.addon_version_number + '.txt'
                 os.rename(the_path, os.path.join(self.addon_path, changelog))
 
