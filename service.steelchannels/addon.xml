@@ -1,4 +1,4 @@
-<addon id="service.steelchannels" name="Steel [COLOR red]Channels[/COLOR] Server" provider-name="SteelChannels" version="0.0.2">
+<addon id="service.steelchannels" name="Steel [COLOR red]Channels[/COLOR] Server" provider-name="SteelChannels" version="0.0.3">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests"></import>
@@ -9,7 +9,7 @@
     <extension point="xbmc.service" library="service.py"/>
     <extension point="xbmc.addon.metadata">        
         <summary lang="en_GB">SteelChannels Service</summary>
-        <summary lang="es_ES">SteelChannels StServiceudio</summary>
+        <summary lang="es_ES">SteelChannels Service</summary>
         <description lang="en_GB">.</description>
         <description lang="es_ES">Servicio de SteelChannels para mantener actualizado los contenidos.</description>
         <disclaimer lang="es_ES">SteelChannels</disclaimer>
