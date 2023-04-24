@@ -1,0 +1,26 @@
+<addon id="plugin.video.steelchannels" name="Steel [COLOR red]Channels[/COLOR] Studio" provider-name="SteelChannels" version="0.0.1">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests"></import>
+        <import addon="script.module.beautifulsoup4" version="4.9.3"/>
+        <import addon="script.module.html5lib" version="0.999.0"></import>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="player.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.python.script" library="default.py"/>
+    <extension point="xbmc.service" library="service.py"/>
+    <extension point="xbmc.addon.metadata">        
+        <summary lang="en_GB">SteelChannels</summary>
+        <summary lang="es_ES">SteelChannels</summary>
+        <description lang="en_GB">.</description>
+        <description lang="es_ES">Plugin de contenido de Películas, Series (VOD) y TV en Vivo solo para KODI.</description>
+        <disclaimer lang="es_ES">SteelChannels</disclaimer>
+        <platform>all</platform>
+		<source>https://github.com/strikersfran/plugin.video.steelchannels</source>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>

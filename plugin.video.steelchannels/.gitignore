@@ -1,0 +1,9 @@
+__init__.py
+service.py
+default.py
+player.py
+/lib
+/core
+/resources
+/providers
+/servers
