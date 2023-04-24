@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <addons>
-  <addon id="service.steelchannels" name="Steel [COLOR red]Channels[/COLOR] Server" provider-name="SteelChannels" version="0.0.12">
+  <addon id="service.steelchannels" name="Steel [COLOR red]Channels[/COLOR] Server" provider-name="SteelChannels" version="0.0.13">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests"/>
