@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <addons>
-  <addon id="service.steelchannels" name="Steel [COLOR red]Channels[/COLOR] Server" provider-name="SteelChannels" version="0.0.14">
+  <addon id="service.steelchannels" name="Steel [COLOR red]Channels[/COLOR] Server" provider-name="SteelChannels" version="0.0.15">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests"/>
@@ -51,7 +51,7 @@
         </assets>
     </extension>
 </addon>
-  <addon id="plugin.video.steelchannels" name="Steel [COLOR red]Channels[/COLOR]" provider-name="SteelChannels" version="0.0.5">
+  <addon id="plugin.video.steelchannels" name="Steel [COLOR red]Channels[/COLOR]" provider-name="SteelChannels" version="0.0.6">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests"/>
