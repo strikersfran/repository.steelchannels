@@ -23,7 +23,9 @@
         "name": "CARTOONITO",
         "logo": "https://comunidadblogger.net/wp-content/uploads/2021/11/Cartoonito-Logo-498x430.png",
         "category": "INFANTILES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0lq/index.m3u8"
+        ]
     },
     {
         "id": "1003",
@@ -31,6 +33,7 @@
         "logo": "https://steelchannels.tk/assets/img/channels/cartoonnetwork.png",
         "category": "INFANTILES",
         "source": [
+            "http://45.5.118.213:16000/play/a0lo/index.m3u8",
             "http://186.96.111.23:8000/play/a009"
         ]
     },
@@ -39,21 +42,27 @@
         "name": "DISCOVERY KIDS",
         "logo": "https://steelchannels.tk/assets/img/channels/discoverykids.png",
         "category": "INFANTILES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0nr/index.m3u8"
+        ]
     },
     {
         "id": "1006",
         "name": "DISNEY CHANNEL",
         "logo": "https://steelchannels.tk/assets/img/channels/disneychannel.png",
         "category": "INFANTILES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0nt/index.m3u8"
+        ]
     },
     {
         "id": "1007",
         "name": "DISNEY JR",
         "logo": "https://steelchannels.tk/assets/img/channels/disneyjr.png",
         "category": "INFANTILES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0lr/index.m3u8"
+        ]
     },
     {
         "id": "1008",
@@ -74,7 +83,9 @@
         "name": "TOONCAST",
         "logo": "https://steelchannels.tk/assets/img/channels/tooncast.png",
         "category": "INFANTILES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0mw/index.m3u8"
+        ]
     },
     {
         "id": "1020",
@@ -96,6 +107,7 @@
         "logo": "https://steelchannels.tk/assets/img/channels/a&e.png",
         "category": "CINE",
         "source": [
+            "http://45.5.118.213:16000/play/a0n1/index.m3u8",
             "http://vp01-aeiptv.delivery.fuugo.com/ngrp:vp01-A_E_HD_LA_IPTV-2e42abb1_all/playlist.m3u8"
         ]
     },
@@ -104,7 +116,9 @@
         "name": "AMC",
         "logo": "https://steelchannels.tk/assets/img/channels/amc.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0m7/index.m3u8"
+        ]
     },
     {
         "id": "2002",
@@ -112,6 +126,8 @@
         "logo": "https://steelchannels.tk/assets/img/channels/axn.png",
         "category": "CINE",
         "source": [
+            "http://45.5.118.213:16000/play/a0m5/index.m3u8",
+            "http://45.5.118.213:16000/play/a0od/index.m3u8",
             "https://vp01-axniptv.delivery.fuugo.com/ngrp:vp01-AXN_HD_LA_IPTV-b86077c0_all/playlist.m3u8"
         ]
     },
@@ -121,6 +137,7 @@
         "logo": "https://steelchannels.tk/assets/img/channels/cinelatino.png",
         "category": "CINE",
         "source": [
+            "http://45.5.118.213:16000/play/a0o6/index.m3u8",
             "https://vp01-cinelatinoiptv.delivery.fuugo.com/ngrp:vp01-Cine_Latino_IPTV-da8eb806_all/playlist.m3u8"
         ]
     },
@@ -129,14 +146,19 @@
         "name": "CINECANAL",
         "logo": "https://steelchannels.tk/assets/img/channels/cinecanal.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0o9/index.m3u8",
+            "http://45.5.118.213:16000/play/a0ne/index.m3u8"
+        ]
     },
     {
         "id": "2006",
         "name": "CINEMAX",
         "logo": "https://steelchannels.tk/assets/img/channels/cinemax.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0o7/index.m3u8"
+        ]
     },
     {
         "id": "2008",
@@ -150,14 +172,19 @@
         "name": "STAR CHANEL",
         "logo": "https://steelchannels.tk/assets/img/channels/fox.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0nu/index.m3u8",
+            "http://45.5.118.213:16000/play/a0nb/index.m3u8"
+        ]
     },
     {
         "id": "2023",
         "name": "FX",
         "logo": "https://steelchannels.tk/assets/img/channels/fx.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0kv/index.m3u8"
+        ]
     },
     {
         "id": "2024",
@@ -171,7 +198,9 @@
         "name": "GOLDEN",
         "logo": "https://steelchannels.tk/assets/img/channels/golden.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0l8/index.m3u8"
+        ]
     },
     {
         "id": "2027",
@@ -256,6 +285,8 @@
         "logo": "https://steelchannels.tk/assets/img/channels/sony.png",
         "category": "CINE",
         "source": [
+            "http://45.5.118.213:16000/play/a0my/index.m3u8",
+            "http://45.5.118.213:16000/play/a0nd/index.m3u8",
             "https://vp01-setiptv.delivery.fuugo.com/ngrp:vp01-SET_HD_LA_IPTV-6cb2b729_all/playlist.m3u8"
         ]
     },
@@ -264,7 +295,10 @@
         "name": "SPACE",
         "logo": "https://steelchannels.tk/assets/img/channels/space.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0lx/index.m3u8",
+            "http://45.5.118.213:16000/play/a0oe/index.m3u8"
+        ]
     },
     {
         "id": "2044",
@@ -272,6 +306,7 @@
         "logo": "https://steelchannels.tk/assets/img/channels/studiouniversal.png",
         "category": "CINE",
         "source": [
+            "http://45.5.118.213:16000/play/a0o8/index.m3u8",
             "https://vp01-studiouniversaliptv.delivery.fuugo.com/ngrp:vp01-Studio_Universal_IPTV-961417a8_all/playlist.m3u8"
         ]
     },
@@ -281,6 +316,7 @@
         "logo": "https://steelchannels.tk/assets/img/channels/syfy.png",
         "category": "CINE",
         "source": [
+            "http://45.5.118.213:16000/play/a0n2/index.m3u8",
             "https://vp01-syfyiptv.delivery.fuugo.com/ngrp:vp01-SyFy_LA_IPTV-ac275d46_all/playlist.m3u8"
         ]
     },
@@ -289,28 +325,36 @@
         "name": "TBS",
         "logo": "https://steelchannels.tk/assets/img/channels/tbs.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0lz/index.m3u8"
+        ]
     },
     {
         "id": "2048",
         "name": "TCM",
         "logo": "https://steelchannels.tk/assets/img/channels/tcm.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0l9/index.m3u8"
+        ]
     },
     {
         "id": "2049",
         "name": "TNT",
         "logo": "https://steelchannels.tk/assets/img/channels/tnt.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0m6/index.m3u8"
+        ]
     },
     {
         "id": "2050",
         "name": "TNT SERIES",
         "logo": "https://steelchannels.tk/assets/img/channels/tntseries.png",
         "category": "CINE",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0ly/index.m3u8"
+        ]
     },
     {
         "id": "2051",
@@ -318,6 +362,7 @@
         "logo": "https://steelchannels.tk/assets/img/channels/universalchannel.png",
         "category": "CINE",
         "source": [
+            "http://45.5.118.213:16000/play/a0o3/index.m3u8",
             "https://vp01-universaliptv.delivery.fuugo.com/ngrp:vp01-Universal_Channel_IPTV-ac6f9ada_all/playlist.m3u8"
         ]
     },
@@ -327,6 +372,8 @@
         "logo": "https://steelchannels.tk/assets/img/channels/warnerchannel.png",
         "category": "CINE",
         "source": [
+            "http://45.5.118.213:16000/play/a0mz/index.m3u8",
+            "http://45.5.118.213:16000/play/a0nc/index.m3u8",
             "https://vp01-wbtviptv.delivery.fuugo.com/ngrp:vp01-WBTV_HD_LA_IPTV-5257d24d_all/playlist.m3u8"
         ]
     },
@@ -400,7 +447,9 @@
         "name": "TELEMUNDO",
         "logo": "http://www.planetfools.com/telemundo.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0lv/index.m3u8"
+        ]
     },
     {
         "id": "3011",
@@ -423,7 +472,9 @@
         "name": "TRU TV",
         "logo": "http://www.planetfools.com/tru-tv.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0lu/index.m3u8"
+        ]
     },
     {
         "id": "3015",
@@ -437,21 +488,27 @@
         "name": "DISCOVERY CHANNEL",
         "logo": "https://steelchannels.tk/assets/img/channels/discoverychannel.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0n3/index.m3u8"
+        ]
     },
     {
         "id": "3019",
         "name": "DISCOVERY H&H",
         "logo": "https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-42.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0nw/index.m3u8"
+        ]
     },
     {
         "id": "3020",
         "name": "DISCOVERY ID",
         "logo": "https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-140.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0nx/index.m3u8"
+        ]
     },
     {
         "id": "3021",
@@ -472,14 +529,18 @@
         "name": "DISCOVERY TURBO",
         "logo": "https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0nv/index.m3u8"
+        ]
     },
     {
         "id": "3025",
         "name": "ANIMAL PLANET",
         "logo": "https://steelchannels.tk/assets/img/channels/animalplanet.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0n4/index.m3u8"
+        ]
     },
     {
         "id": "3027",
@@ -493,7 +554,9 @@
         "name": "NATGEO",
         "logo": "https://steelchannels.tk/assets/img/channels/natgeo.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0m0/index.m3u8"
+        ]
     },
     {
         "id": "3029",
@@ -507,14 +570,18 @@
         "name": "TLC",
         "logo": "https://steelchannels.tk/assets/img/channels/tlc.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0n6/index.m3u82"
+        ]
     },
     {
         "id": "3032",
         "name": "EL GOURMET",
         "logo": "https://www.simple.com.ve/wp-content/uploads/2021/01/maquetaci%EF%BD%BDn_web-45.png",
         "category": "VARIEDADES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0kz/index.m3u8"
+        ]
     },
     {
         "id": "3033",
@@ -522,6 +589,8 @@
         "logo": "https://steelchannels.tk/assets/img/channels/history.png",
         "category": "VARIEDADES",
         "source": [
+            "http://45.5.118.213:16000/play/a0n5/index.m3u8",
+            "http://45.5.118.213:16000/play/a0md/index.m3u8",
             "https://vp01-thciptv.delivery.fuugo.com/ngrp:vp01-THC_LA_IPTV-e868351d_all/playlist.m3u8"
         ]
     },
@@ -531,6 +600,7 @@
         "logo": "https://steelchannels.tk/assets/img/channels/history2.png",
         "category": "VARIEDADES",
         "source": [
+            "http://45.5.118.213:16000/play/a0ky/index.m3u8",
             "https://vp01-h2iptv.delivery.fuugo.com/ngrp:vp01-H2_LA_IPTV-f3a00009_all/playlist.m3u8"
         ]
     },
@@ -540,6 +610,7 @@
         "logo": "https://steelchannels.tk/assets/img/channels/lifetime.png",
         "category": "VARIEDADES",
         "source": [
+            "http://45.5.118.213:16000/play/a0m1/index.m3u8",
             "https://vp01-lifetimeiptv.delivery.fuugo.com/ngrp:vp01-Lifetime_LA_IPTV-0f5f4705_all/playlist.m3u8"
         ]
     },
@@ -548,21 +619,27 @@
         "name": "HTV",
         "logo": "https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-32.png",
         "category": "MUSICA",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0l7/index.m3u8"
+        ]
     },
     {
         "id": "4007",
         "name": "MTV",
         "logo": "https://steelchannels.tk/assets/img/channels/mtv.png",
         "category": "MUSICA",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0o1/index.m3u8"
+        ]
     },
     {
         "id": "4010",
         "name": "MTV HITS",
         "logo": "https://steelchannels.tk/assets/img/channels/mtvhits.png",
         "category": "MUSICA",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0m3/index.m3u8"
+        ]
     },
     {
         "id": "5011",
@@ -598,7 +675,8 @@
         "logo": "http://www.monitoreodemedios.co/wp-content/uploads/2016/03/RCN-TELEVISION-C.png",
         "category": "PAISES",
         "source": [
-            "http://186.96.111.23:8000/play/a01j"
+            "http://186.96.111.23:8000/play/a01j",
+            "http://45.5.118.213:16000/play/a0kw/index.m3u8"
         ]
     },
     {
@@ -754,6 +832,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",
         "category": "PAISES",
         "source": [
+            "http://45.5.118.213:16000/play/a0m8/index.m3u8",
             "https://www.youtube.com/watch?v=fpkLCyxaKYs"
         ]
     },
@@ -808,7 +887,9 @@
         "name": "ESPN",
         "logo": "http://www.planetfools.com/espn.png",
         "category": "DEPORTES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0n7/index.m3u8"
+        ]
     },
     {
         "id": "6038",
@@ -816,28 +897,37 @@
         "logo": "http://www.planetfools.com/espn-2.png",
         "epg_channel_id": "ESPN2Argentina.ar",
         "category": "DEPORTES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0n8/index.m3u8"
+        ]
     },
     {
         "id": "6039",
         "name": "ESPN 3",
         "logo": "http://www.planetfools.com/espn-3.png",
         "category": "DEPORTES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0l1/index.m3u8"
+        ]
     },
     {
         "id": "6040",
         "name": "ESPN EXTRA",
         "logo": "https://steelchannels.tk/assets/img/channels/noimage.png",
         "category": "DEPORTES",
-        "source": []
+        "source": [            
+            "http://45.5.118.213:16000/play/a0o0/index.m3u8",
+            "http://45.5.118.213:16000/play/a0oc/index.m3u8"
+        ]
     },
     {
         "id": "6049",
         "name": "ESPN PLUS",
         "logo": "https://www.simple.com.ve/wp-content/uploads/2022/05/espn-extra-web2.png",
         "category": "DEPORTES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0me/index.m3u8"
+        ]
     },
     {
         "id": "6059",
@@ -851,14 +941,18 @@
         "name": "FOX SPORTS 2",
         "logo": "https://steelchannels.tk/assets/img/channels/foxsports2.png",
         "category": "DEPORTES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0l2/index.m3u8"
+        ]
     },
     {
         "id": "6062",
         "name": "FOX SPORTS 3",
         "logo": "https://www.simple.com.ve/wp-content/uploads/2020/12/maquetaci%EF%BD%BDn_web-127.png",
         "category": "DEPORTES",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0m2/index.m3u8"
+        ]
     },
     {
         "id": "6074",
@@ -907,7 +1001,9 @@
         "name": "VENUS",
         "logo": "https://megatelevisionhd.com/img/logo_canal/Venus.png",
         "category": "ADULTO",
-        "source": []
+        "source": [
+            "http://45.5.118.213:16000/play/a0lc/index.m3u8"
+        ]
     },
     {
         "id": "8035",
@@ -1046,6 +1142,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
         "category": "PAISES",
         "source": [
+            "http://45.5.118.213:16000/play/a0ma/index.m3u8",
             "https://www.youtube.com/watch?v=XDJPzMznAjU"
         ]
     },
